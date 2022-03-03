@@ -1,8 +1,10 @@
 # Edward Wang's Portfolio
 
-# Python - Personal Loan Analysis
 
-## Project Overview
+
+## [Python - Personal Loan Analysis](https://github.com/ewang58/Personal-Loan-Analysis)
+
+### Project Overview
 
 - This case is about a bank (Thera Bank) whose management wants to explore ways of converting its liability customers to personal loan customers.
 - We found that an individual's annual income and the number of family members are the most important factors in determining whether an individual accepts a personal loan from the bank.
