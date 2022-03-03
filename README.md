@@ -1,8 +1,6 @@
-# Edward Wang's Portfolio
-
-
-
 ## [Python - Personal Loan Analysis](https://github.com/ewang58/Personal-Loan-Analysis)
+
+
 
 **Project Overview**
 
