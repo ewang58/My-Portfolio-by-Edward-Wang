@@ -11,4 +11,4 @@
 
 
 
-![histogram](../Personal Loan Analysis/Images/histogram.png)
+![histogram](images/histogram.png)
