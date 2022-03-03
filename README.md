@@ -1,5 +1,3 @@
-# Portfolio
-
 ## [Machine Learning - Fibre Content Regression](https://ewang58.github.io/ML-Fibre-Regression/)
 
 **Project Overview**
