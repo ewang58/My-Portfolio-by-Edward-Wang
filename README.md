@@ -1,4 +1,4 @@
-## [Machine Learning - Fibre Content Regression](https://ewang58.github.io/ML-Fibre-Regression/)
+## [Machine Learning - Fibre Content Regression](https://ewang58.github.io/Machine-Learning-Fibre-Classification-Regression/)
 
 **Project Overview**
 
@@ -6,7 +6,7 @@
 
 - a
 
-- [Read the full analysis here](https://ewang58.github.io/ML-Fibre-Regression/)
+- [Read the full analysis here](https://ewang58.github.io/Machine-Learning-Fibre-Classification-Regression/)
 
   
 
