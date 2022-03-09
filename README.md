@@ -7,7 +7,7 @@
 -  The regression models that are used in this project include: Elastic Net, Lasso (L1), Ridge (L2), Multi-Layer Perceptron Neural Network(MLPNN), Support Vector Regression (SVR)
 -  [Read the full analysis here](https://ewang58.github.io/Machine-Learning-Fibre-Classification-Regression/)
 
-<img src="images/hyperplane.png" alt="hyperplane" style="zoom:150%;" />
+<img src="images/hyperplane.png" alt="hyperplane" style="zoom:125%;" />
 
 ---
 
