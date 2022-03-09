@@ -10,7 +10,7 @@
 
 - [Read the full analysis here](https://ewang58.github.io/Machine-Learning-Fibre-Classification-Regression/)
 
-  
+  <img src="../ML-Fibre-Regression/Image/hyperplane.png" alt="hyperplane" style="zoom:150%;" />
 
 ---
 
