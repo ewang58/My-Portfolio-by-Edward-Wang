@@ -1,4 +1,4 @@
-## [Machine Learning - Fibre Content Regression](https://ewang58.github.io/Machine-Learning-Fibre-Classification-Regression/)
+## [Supervised Machine Learning - Fibre Content Regression](https://ewang58.github.io/Machine-Learning-Fibre-Classification-Regression/)
 
 **Project Overview**
 
